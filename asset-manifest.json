@@ -1,21 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.21c3266f.css",
-    "main.js": "/static/js/main.c29a6c58.js",
+    "main.css": "/static/css/main.fcfedddf.css",
+    "main.js": "/static/js/main.2cf8eb89.js",
     "static/js/453.f2ec669e.chunk.js": "/static/js/453.f2ec669e.chunk.js",
     "static/media/background2.mp4": "/static/media/background2.3ed3e397441b65af3453.mp4",
+    "static/media/abruzzo.jpg": "/static/media/abruzzo.a0360026032473766298.jpg",
     "static/media/fratelli.png": "/static/media/fratelli.02b1cb72cec58b6cdaff.png",
-    "static/media/logonero completo.png": "/static/media/logonero completo.c7695d72bc62df1999ec.png",
-    "static/media/logoverde.png": "/static/media/logoverde.fa28b555c6302068cb60.png",
-    "static/media/logonero.png": "/static/media/logonero.c9e9f82e7990a71c9203.png",
+    "static/media/bottiglia123.png": "/static/media/bottiglia123.82100c0ff054cbb98e76.png",
+    "static/media/logo nero.png": "/static/media/logo nero.069b14ab0938d9a9d8b8.png",
+    "static/media/storia.jpg": "/static/media/storia.547dc7e4bc01e878aad0.jpg",
+    "static/media/logo bianco.png": "/static/media/logo bianco.0ccdbaf1a367c7c96c61.png",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.21c3266f.css.map": "/static/css/main.21c3266f.css.map",
-    "main.c29a6c58.js.map": "/static/js/main.c29a6c58.js.map",
+    "main.fcfedddf.css.map": "/static/css/main.fcfedddf.css.map",
+    "main.2cf8eb89.js.map": "/static/js/main.2cf8eb89.js.map",
     "453.f2ec669e.chunk.js.map": "/static/js/453.f2ec669e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.21c3266f.css",
-    "static/js/main.c29a6c58.js"
+    "static/css/main.fcfedddf.css",
+    "static/js/main.2cf8eb89.js"
   ]
 }
