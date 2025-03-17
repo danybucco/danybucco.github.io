@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.959d1ae3.css",
-    "main.js": "/static/js/main.713e6f09.js",
+    "main.css": "/static/css/main.f07e3875.css",
+    "main.js": "/static/js/main.f7351cbf.js",
     "static/js/453.f2ec669e.chunk.js": "/static/js/453.f2ec669e.chunk.js",
     "static/media/abruzzo.jpg": "/static/media/abruzzo.a0360026032473766298.jpg",
     "static/media/carosello4.jpg": "/static/media/carosello4.a0360026032473766298.jpg",
@@ -12,7 +12,6 @@
     "static/media/bottiglia123.png": "/static/media/bottiglia123.82100c0ff054cbb98e76.png",
     "static/media/invio riuscito.png": "/static/media/invio riuscito.c05e7911c4a46be10109.png",
     "static/media/invio non riuscito.png": "/static/media/invio non riuscito.03b95ac252630f118e04.png",
-    "static/media/storia.jpg": "/static/media/storia.547dc7e4bc01e878aad0.jpg",
     "static/media/logo bianco.png": "/static/media/logo bianco.0ccdbaf1a367c7c96c61.png",
     "static/media/loading.gif": "/static/media/loading.b52c27584834ac26b4a4.gif",
     "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
@@ -20,12 +19,12 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.959d1ae3.css.map": "/static/css/main.959d1ae3.css.map",
-    "main.713e6f09.js.map": "/static/js/main.713e6f09.js.map",
+    "main.f07e3875.css.map": "/static/css/main.f07e3875.css.map",
+    "main.f7351cbf.js.map": "/static/js/main.f7351cbf.js.map",
     "453.f2ec669e.chunk.js.map": "/static/js/453.f2ec669e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.959d1ae3.css",
-    "static/js/main.713e6f09.js"
+    "static/css/main.f07e3875.css",
+    "static/js/main.f7351cbf.js"
   ]
 }
